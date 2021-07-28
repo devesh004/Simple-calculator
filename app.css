@@ -1,0 +1,26 @@
+table{
+    margin: auto;
+}
+.container{
+    text-align: center;
+}
+button{
+    height: 45px;
+    width: 76px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    border-radius: 5px;
+    background-color: beige;
+}
+button:hover{
+    background-color: aquamarine;
+}
+input{
+    font-size: 25px;
+}
+#screen{
+    border-radius: 10px;
+}
+.calc{
+    display: inline-block;
+}
